@@ -6,6 +6,40 @@ Automatically process large volumes of data in batches.
 
 ---
 
+### ⚡ Advantages
+
+✔ Processes millions of records
+
+✔ Error control
+
+✔ Automatic retry
+
+✔ Restart (continues where it left off)
+
+✔ Scalable
+
+---
+
+### ⚠️ When to use
+
+Use Spring Batch when:
+
+- High volume of data
+
+- Heavyweight processes
+
+- No need for immediate response
+
+❌ When NOT to use
+
+- Simple REST request
+
+- Fast processes
+
+- Real-time interaction
+
+---
+
 ### 🔥 Real-world examples
 
 🧾 1. Process orders
